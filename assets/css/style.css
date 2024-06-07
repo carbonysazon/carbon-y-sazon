@@ -113,7 +113,8 @@ h2 {
     .container {
         width: 100%;
         margin-left: 0;
-        height: 98vh;
+        height: 86vh;
+        /* 98vh*/
     }
 
     .lista {
